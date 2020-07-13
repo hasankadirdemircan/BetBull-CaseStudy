@@ -1,4 +1,4 @@
-# BetBull-CaseStudy
+<h1 align="center"> BetBull CaseStudy </h1> <br> 
 
 <p align="center">
   <a href="#">
